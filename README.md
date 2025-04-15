@@ -10,6 +10,8 @@
   <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" height="42" />
   <img src="https://www.svgrepo.com/show/355038/golang.svg" alt="Go" height="42" />
   <img src="https://www.svgrepo.com/show/378796/electron.svg" alt="Electron" height="42" />
+  <img src="https://www.svgrepo.com/show/373817/lua.svg" alt="Lua" height="42" />
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="42" />
 </p>
 
 <p align="center">
