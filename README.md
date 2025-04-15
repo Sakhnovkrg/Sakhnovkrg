@@ -14,6 +14,5 @@
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="42" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhnovkrg&layout=compact" alt="Top Langs" />
-</p>
+Creator of [presetshare.com](https://presetshare.com) — a platform for sharing and discovering free synth presets.  
+Creator of [Keysee](https://github.com/Sakhnovkrg/keysee) — an open-source input overlay tool for tutorials and screen recordings.
