@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm <span style="color:green">Alexandr</span></h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1>Hi there, I'm <span style="color:green">Alexandr</span></h1>
+<h3>Full Stack Developer</h3>
 
-<p align="center">
+<p>
   <img src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP" height="42" />
   <img src="https://www.svgrepo.com/show/354591/yii.svg" alt="Yii2" height="42" />
   <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="Vue" height="42" />
