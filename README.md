@@ -8,7 +8,7 @@
   <img src="https://www.svgrepo.com/show/373940/nuxt.svg" alt="Nuxt" height="42" />
   <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="NodeJS" height="42" />
   <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" height="42" />
-  <img src="https://www.svgrepo.com/show/355038/go.svg" alt="Go" height="42" />
+  <img src="https://www.svgrepo.com/show/355038/golang.svg" alt="Go" height="42" />
   <img src="https://www.svgrepo.com/show/378796/electron.svg" alt="Electron" height="42" />
 </p>
 
