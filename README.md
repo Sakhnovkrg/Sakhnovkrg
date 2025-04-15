@@ -12,4 +12,6 @@
   <img src="https://www.svgrepo.com/show/378796/electron.svg" alt="Electron" height="42" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhnovkrg&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhnovkrg&layout=compact" alt="Top Langs" />
+</p>
