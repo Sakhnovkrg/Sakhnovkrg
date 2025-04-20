@@ -15,4 +15,3 @@
 </p>
 
 Creator of [presetshare.com](https://presetshare.com) — a platform for sharing and discovering free synth presets.  
-Creator of [Keysee](https://github.com/Sakhnovkrg/keysee) — an open-source input overlay tool for tutorials and screen recordings.
