@@ -4,6 +4,7 @@
 <p>
   <img src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP" height="42" />
   <img src="https://www.svgrepo.com/show/354591/yii.svg" alt="Yii2" height="42" />
+  <img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" alt="Yii2" height="42" />
   <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="Vue" height="42" />
   <img src="https://www.svgrepo.com/show/373940/nuxt.svg" alt="Nuxt" height="42" />
   <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="NodeJS" height="42" />
