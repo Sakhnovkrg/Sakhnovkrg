@@ -16,4 +16,5 @@
   <img src="https://www.svgrepo.com/show/353614/c-plusplus.svg" alt="C++" height="42" />
 </p>
 
-Creator of [presetshare.com](https://presetshare.com) — a platform for sharing and discovering free synth presets.  
+Creator of [presetshare.com](https://presetshare.com) — a platform for sharing and discovering free synth presets.
+Recently, I've started developing [VST plugins](https://dsgdnb.com/plugins).
