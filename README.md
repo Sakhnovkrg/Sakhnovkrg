@@ -14,6 +14,7 @@
   <img src="https://www.svgrepo.com/show/373817/lua.svg" alt="Lua" height="42" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="42" />
   <img src="https://www.svgrepo.com/show/353614/c-plusplus.svg" alt="C++" height="42" />
+  <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="Rust" height="42" />
 </p>
 
 Creator of [presetshare.com](https://presetshare.com) — a platform for sharing and discovering free synth presets.
